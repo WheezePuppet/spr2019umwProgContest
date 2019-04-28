@@ -3,4 +3,4 @@
 
 # Problem H
 
-print("TJ says hi")
+print("TJ and Will say hi")
